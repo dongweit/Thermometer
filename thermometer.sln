@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thermometer", "ClassLibrary1\Thermometer.csproj", "{34606127-E860-45AE-991B-907CE01649D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TherometerConsole", "TherometerConsole\TherometerConsole.csproj", "{883BC934-3D84-449E-A3D4-53A41004AD0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34606127-E860-45AE-991B-907CE01649D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34606127-E860-45AE-991B-907CE01649D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34606127-E860-45AE-991B-907CE01649D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34606127-E860-45AE-991B-907CE01649D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{883BC934-3D84-449E-A3D4-53A41004AD0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{883BC934-3D84-449E-A3D4-53A41004AD0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{883BC934-3D84-449E-A3D4-53A41004AD0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{883BC934-3D84-449E-A3D4-53A41004AD0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2131941A-F69B-41CC-B118-FFC148322ED8}
+	EndGlobalSection
+EndGlobal
